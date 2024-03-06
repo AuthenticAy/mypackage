@@ -8,7 +8,7 @@ setup(
     description=' EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/AuthenticAy/mypackage',
+    url='https://github.com/AuthenticAy/mypackage.git',
     author='Ayomide Ajayi',
     author_email='ajaayomide96@gmail.com'
 )
